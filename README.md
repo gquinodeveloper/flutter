@@ -12,7 +12,7 @@ Wasikuna.pe is a building and condominium management software that helps compani
 - [Instagram](https://www.instagram.com/devquino/)
 
 <h1>Healthy food</h1>
-<table >
+<table border="0">
     <tr>
         <td>
             <img src="https://res.cloudinary.com/dureqwug7/image/upload/v1613256510/sofjsldx8nzjxii8romg.png" width="450" height="450">
@@ -24,7 +24,7 @@ Wasikuna.pe is a building and condominium management software that helps compani
 </table>
 
 <h2>Flutter - Design</h2>
-<table>
+<table border="0">
     <tr>
         <td>
             <img src="https://res.cloudinary.com/dureqwug7/image/upload/v1613256510/c6pd5hbxtlgu6upjeboi.png" width="300" height="600">
@@ -53,5 +53,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-<p>hola</P>
-<strong>mundo</strong>

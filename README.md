@@ -15,10 +15,10 @@ Wasikuna.pe is a building and condominium management software that helps compani
 <table border="0">
     <tr>
         <td>
-            <img src="https://res.cloudinary.com/dureqwug7/image/upload/v1613256510/sofjsldx8nzjxii8romg.png" width="430" height="430">
+            <img src="https://res.cloudinary.com/dureqwug7/image/upload/v1613256510/sofjsldx8nzjxii8romg.png" width="400" height="400">
         </td>
         <td>
-            <img src="https://res.cloudinary.com/dureqwug7/image/upload/v1613256699/bddnakrehl3rwkcue9uk.png" width="430" height="430">
+            <img src="https://res.cloudinary.com/dureqwug7/image/upload/v1613256699/bddnakrehl3rwkcue9uk.png" width="405" height="400">
         </td>
     </tr>
 </table>
@@ -27,13 +27,13 @@ Wasikuna.pe is a building and condominium management software that helps compani
 <table border="0">
     <tr>
         <td>
-            <img src="https://res.cloudinary.com/dureqwug7/image/upload/v1613256510/c6pd5hbxtlgu6upjeboi.png" width="300" height="550">
+            <img src="https://res.cloudinary.com/dureqwug7/image/upload/v1613256510/c6pd5hbxtlgu6upjeboi.png" width="300" height="500">
         </td>
         <td>
-            <img src="https://res.cloudinary.com/dureqwug7/image/upload/v1613256511/up8in4bs1hpqiyrfaqby.png" width="300" height="550">
+            <img src="https://res.cloudinary.com/dureqwug7/image/upload/v1613256511/up8in4bs1hpqiyrfaqby.png" width="300" height="500">
         </td>
         <td>
-            <img src="https://res.cloudinary.com/dureqwug7/image/upload/v1613256510/yylowjwxrnpsnh3pcwt0.png" width="300" height="550">
+            <img src="https://res.cloudinary.com/dureqwug7/image/upload/v1613256510/yylowjwxrnpsnh3pcwt0.png" width="300" height="500">
         </td>
     </tr>
 </table>

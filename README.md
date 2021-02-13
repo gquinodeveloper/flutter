@@ -1,4 +1,4 @@
-# flutter_sample_quino
+# flutter
 
 A new Flutter project.
 

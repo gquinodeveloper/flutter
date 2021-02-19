@@ -27,13 +27,13 @@ Wasikuna.pe is a building and condominium management software that helps compani
 <table border="0">
     <tr>
         <td>
-            <img src="https://res.cloudinary.com/dureqwug7/image/upload/v1613256510/c6pd5hbxtlgu6upjeboi.png" width="300" height="550">
+            <img src="https://res.cloudinary.com/dureqwug7/image/upload/v1613256510/c6pd5hbxtlgu6upjeboi.png" width="290" height="550">
         </td>
         <td>
-            <img src="https://res.cloudinary.com/dureqwug7/image/upload/v1613256511/up8in4bs1hpqiyrfaqby.png" width="300" height="550">
+            <img src="https://res.cloudinary.com/dureqwug7/image/upload/v1613256511/up8in4bs1hpqiyrfaqby.png" width="290" height="550">
         </td>
         <td>
-            <img src="https://res.cloudinary.com/dureqwug7/image/upload/v1613256510/yylowjwxrnpsnh3pcwt0.png" width="300" height="550">
+            <img src="https://res.cloudinary.com/dureqwug7/image/upload/v1613256510/yylowjwxrnpsnh3pcwt0.png" width="290" height="550">
         </td>
     </tr>
 </table>

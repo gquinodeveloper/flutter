@@ -1,0 +1,1 @@
+const assets = "assets/ui_bottom_navigation_bar/";

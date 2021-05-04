@@ -7,42 +7,73 @@ packages:
       name: async
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "2.5.0"
+=======
+    version: "2.5.0-nullsafety.1"
+>>>>>>> f7b4623e63462741484fc0a243eb7a384a248dfe
   boolean_selector:
     dependency: transitive
     description:
       name: boolean_selector
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "2.1.0"
+=======
+    version: "2.1.0-nullsafety.1"
+>>>>>>> f7b4623e63462741484fc0a243eb7a384a248dfe
   characters:
     dependency: transitive
     description:
       name: characters
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "1.1.0"
+=======
+    version: "1.1.0-nullsafety.3"
+>>>>>>> f7b4623e63462741484fc0a243eb7a384a248dfe
   charcode:
     dependency: transitive
     description:
       name: charcode
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "1.2.0"
+=======
+    version: "1.2.0-nullsafety.1"
+>>>>>>> f7b4623e63462741484fc0a243eb7a384a248dfe
   clock:
     dependency: transitive
     description:
       name: clock
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "1.1.0"
+=======
+    version: "1.1.0-nullsafety.1"
+>>>>>>> f7b4623e63462741484fc0a243eb7a384a248dfe
   collection:
     dependency: transitive
     description:
       name: collection
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "1.15.0"
+=======
+    version: "1.15.0-nullsafety.3"
+  convert:
+    dependency: transitive
+    description:
+      name: convert
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.1.1"
+>>>>>>> f7b4623e63462741484fc0a243eb7a384a248dfe
   cupertino_icons:
     dependency: "direct main"
     description:
@@ -56,7 +87,11 @@ packages:
       name: fake_async
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "1.2.0"
+=======
+    version: "1.2.0-nullsafety.1"
+>>>>>>> f7b4623e63462741484fc0a243eb7a384a248dfe
   flutter:
     dependency: "direct main"
     description: flutter
@@ -68,14 +103,22 @@ packages:
       name: flutter_staggered_grid_view
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "0.4.0"
+=======
+    version: "0.3.4"
+>>>>>>> f7b4623e63462741484fc0a243eb7a384a248dfe
   flutter_svg:
     dependency: "direct main"
     description:
       name: flutter_svg
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "0.22.0"
+=======
+    version: "0.19.1"
+>>>>>>> f7b4623e63462741484fc0a243eb7a384a248dfe
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -87,42 +130,66 @@ packages:
       name: matcher
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "0.12.10"
+=======
+    version: "0.12.10-nullsafety.1"
+>>>>>>> f7b4623e63462741484fc0a243eb7a384a248dfe
   meta:
     dependency: transitive
     description:
       name: meta
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "1.3.0"
+=======
+    version: "1.3.0-nullsafety.3"
+>>>>>>> f7b4623e63462741484fc0a243eb7a384a248dfe
   path:
     dependency: transitive
     description:
       name: path
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "1.8.0"
+=======
+    version: "1.8.0-nullsafety.1"
+>>>>>>> f7b4623e63462741484fc0a243eb7a384a248dfe
   path_drawing:
     dependency: transitive
     description:
       name: path_drawing
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "0.5.0"
+=======
+    version: "0.4.1+1"
+>>>>>>> f7b4623e63462741484fc0a243eb7a384a248dfe
   path_parsing:
     dependency: transitive
     description:
       name: path_parsing
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "0.2.0"
+=======
+    version: "0.1.4"
+>>>>>>> f7b4623e63462741484fc0a243eb7a384a248dfe
   petitparser:
     dependency: transitive
     description:
       name: petitparser
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "4.1.0"
+=======
+    version: "3.0.4"
+>>>>>>> f7b4623e63462741484fc0a243eb7a384a248dfe
   sky_engine:
     dependency: transitive
     description: flutter
@@ -134,63 +201,102 @@ packages:
       name: source_span
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "1.8.0"
+=======
+    version: "1.8.0-nullsafety.2"
+>>>>>>> f7b4623e63462741484fc0a243eb7a384a248dfe
   stack_trace:
     dependency: transitive
     description:
       name: stack_trace
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "1.10.0"
+=======
+    version: "1.10.0-nullsafety.1"
+>>>>>>> f7b4623e63462741484fc0a243eb7a384a248dfe
   stream_channel:
     dependency: transitive
     description:
       name: stream_channel
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "2.1.0"
+=======
+    version: "2.1.0-nullsafety.1"
+>>>>>>> f7b4623e63462741484fc0a243eb7a384a248dfe
   string_scanner:
     dependency: transitive
     description:
       name: string_scanner
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "1.1.0"
+=======
+    version: "1.1.0-nullsafety.1"
+>>>>>>> f7b4623e63462741484fc0a243eb7a384a248dfe
   term_glyph:
     dependency: transitive
     description:
       name: term_glyph
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "1.2.0"
+=======
+    version: "1.2.0-nullsafety.1"
+>>>>>>> f7b4623e63462741484fc0a243eb7a384a248dfe
   test_api:
     dependency: transitive
     description:
       name: test_api
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "0.2.19"
+=======
+    version: "0.2.19-nullsafety.2"
+>>>>>>> f7b4623e63462741484fc0a243eb7a384a248dfe
   typed_data:
     dependency: transitive
     description:
       name: typed_data
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "1.3.0"
+=======
+    version: "1.3.0-nullsafety.3"
+>>>>>>> f7b4623e63462741484fc0a243eb7a384a248dfe
   vector_math:
     dependency: transitive
     description:
       name: vector_math
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "2.1.0"
+=======
+    version: "2.1.0-nullsafety.3"
+>>>>>>> f7b4623e63462741484fc0a243eb7a384a248dfe
   xml:
     dependency: transitive
     description:
       name: xml
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "5.1.0"
 sdks:
   dart: ">=2.12.0 <3.0.0"
   flutter: ">=1.24.0-7.0"
+=======
+    version: "4.5.1"
+sdks:
+  dart: ">=2.10.0-110 <2.11.0"
+  flutter: ">=1.18.0-6.0.pre <2.0.0"
+>>>>>>> f7b4623e63462741484fc0a243eb7a384a248dfe

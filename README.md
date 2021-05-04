@@ -11,6 +11,9 @@ Wasikuna.pe is a building and condominium management software that helps compani
 - [Youtube](https://www.youtube.com/channel/UCtxHL-3qZzcQRn6XZUt7dvA)
 - [Instagram](https://www.instagram.com/devquino/)
 
+<h1>UI Bottom Navigation (New)</h1>
+<img src="https://res.cloudinary.com/dureqwug7/image/upload/v1620089315/o04bpmrqsloovjxaaugw.gif">
+
 <h1>Music App (New)</h1>
 <img src="https://res.cloudinary.com/dureqwug7/image/upload/v1618442649/r2yyfot9zhp1imiqxdd6.png">
 
